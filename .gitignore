@@ -2,7 +2,8 @@
 .DS_Store
 
 # Visual Studio 2015 user specific files
-.vs/
+PotV/.vs/
+PotV/.vscode/
 
 # Compiled Object files
 *.slo
@@ -70,8 +71,8 @@ Build/*/**
 Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
-Plugins/*/Intermediate/*
+PotV/Intermediate/*
+PotV/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
